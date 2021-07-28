@@ -1,0 +1,19 @@
+{
+  "name": "candidatelistupload",
+  "version": "1.0.0",
+  "description": "\"Candidate list 2021\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Candidate list 2021"
+  },
+  "author": "Veena",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/firestore": "^4.12.3",
+    "csv-parse": "^4.16.0"
+  }
+}
